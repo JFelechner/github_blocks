@@ -1,4 +1,8 @@
 
+body{
+    background-color: darkgray;
+}
+
 h1{
     display: flex;
     justify-content: center ;
@@ -26,4 +30,9 @@ img{
 
 .black{
     background-color: black;
+}
+
+p{
+    display: flex;
+    justify-content: center ;
 }
