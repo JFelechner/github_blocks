@@ -1,0 +1,29 @@
+
+h1{
+    display: flex;
+    justify-content: center ;
+}
+
+img{
+    height: 200px;
+}
+
+.row{
+    padding: 10px;
+    margin: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.red{
+    background-color: firebrick;
+}
+
+.gold{
+    background-color: goldenrod;
+}
+
+.black{
+    background-color: black;
+}
